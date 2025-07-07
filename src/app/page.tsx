@@ -1,3 +1,9 @@
+import { Container, Text } from "@chakra-ui/react";
+
 export default function Page() {
-  return <h1>Hello, Next.js!</h1>;
+  return (
+    <Container>
+      <Text>Lorem ipsum dolor sit amet</Text>
+    </Container>
+  );
 }
