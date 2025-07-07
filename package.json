@@ -1,0 +1,31 @@
+{
+  "name": "glaceon",
+  "version": "1.0.0",
+  "description": "Lorem ipsum dolor sit amet",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "keywords": [],
+  "author": "Irving Dinh <irving.dinh@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^15.3.5",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "24.0.10",
+    "@types/react": "19.1.8",
+    "eslint": "^9",
+    "eslint-config-next": "15.3.5",
+    "eslint-config-prettier": "10.1.5",
+    "eslint-plugin-prettier": "5.5.1",
+    "eslint-plugin-simple-import-sort": "12.1.1",
+    "prettier": "3.6.2",
+    "typescript": "5.8.3"
+  }
+}
