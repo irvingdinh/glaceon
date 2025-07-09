@@ -1,7 +1,7 @@
 import Provider from "./provider";
 
 export const metadata = {
-  title: "Irving Dinh",
+  title: "Irving Dinh — Software engineer, designer, and amateur photographer.",
   description: "Software engineer, designer, and amateur photographer.",
 };
 
